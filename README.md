@@ -66,7 +66,7 @@ Software:
 
 <p align="center">
   <b>Looking for a software engineering intern?
-    <a href="https://www.linkedin.com/in/zach-nguyen">Let's connect and talk!</a>
+    <a href="https://www.linkedin.com/in/hoangminhkhoi-pham/">Let's connect and talk!</a>
   </b>
 </p>
 
